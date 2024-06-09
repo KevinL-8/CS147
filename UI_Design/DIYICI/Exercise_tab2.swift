@@ -1,9 +1,4 @@
-//
-//  Exercise_tab2.swift
-//  DIYICI
-//
-//  Created by 李笑丞 on 2024/3/12.
-//
+
 import SwiftUI
 import OpenAI
 
