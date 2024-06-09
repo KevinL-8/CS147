@@ -1,9 +1,5 @@
-//
-//  DocumentBrowserViewController.swift
-//  DIYICI
-//
-//  Created by 湖光的电脑 on 2024/2/6.
-//
+
+
 import SwiftUI
 import HealthKit
 import WCDBSwift
